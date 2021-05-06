@@ -350,3 +350,6 @@
 /Users/robertmarmolejo/Desktop/Insta/RmcInsta/RmcInsta/obj/Debug/netcoreapp3.1/RmcInsta.dll
 /Users/robertmarmolejo/Desktop/Insta/RmcInsta/RmcInsta/obj/Debug/netcoreapp3.1/RmcInsta.pdb
 /Users/robertmarmolejo/Desktop/Insta/RmcInsta/RmcInsta/obj/Debug/netcoreapp3.1/RmcInsta.genruntimeconfig.cache
+/Users/robertmarmolejo/Desktop/Insta/RmcInsta/RmcInsta/obj/Debug/netcoreapp3.1/Razor/Index.cshtml.g.cs
+/Users/robertmarmolejo/Desktop/Insta/RmcInsta/RmcInsta/obj/Debug/netcoreapp3.1/Razor/Views/Home/Register.cshtml.g.cs
+/Users/robertmarmolejo/Desktop/Insta/RmcInsta/RmcInsta/obj/Debug/netcoreapp3.1/Razor/_Layout.cshtml.g.cs
